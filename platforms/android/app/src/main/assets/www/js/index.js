@@ -34,9 +34,6 @@ var app = {
         var url = 'https://login.aviva.com.sg/gi';
 
         var inAppBrowserRef = cordova.InAppBrowser.open(url, target, options);
-
-
-        // cordova.InAppBrowser.open('https://login.aviva.com.sg/gi', '_blank', 'location=no');
     },
 
     // Update DOM on a Received Event

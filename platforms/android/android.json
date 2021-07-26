@@ -19,7 +19,7 @@
   },
   "installed_plugins": {
     "cordova-plugin-inappbrowser": {
-      "PACKAGE_NAME": "io.cordova.hellocordova"
+      "PACKAGE_NAME": "com.aviva.travel"
     }
   },
   "dependent_plugins": {},
