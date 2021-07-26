@@ -19,7 +19,7 @@
     <platform name="android">
         <allow-intent href="market:*" />
 
-        <!-- icons -->
+        <!-- icons for android-->
         <!--
             ldpi    : 36x36 px
             mdpi    : 48x48 px
