@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='utf-8'?>
-<widget id="com.aviva.travel" version="4.1.0" android-versionCode="41000" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0">
-    <name>Aviva Travel</name>
+<widget id="com.aviva.travel" version="4.1.1" android-versionCode="41100" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0">
+    <name>Aviva Singapore Travel</name>
     <description>
         Aviva Singapore Travel 
     </description>
@@ -28,12 +28,14 @@
             xxhdpi  : 144x144 px
             xxxhdpi : 192x192 px
         -->
-        <icon src="res/icons/android/icon-ldpi.png" density="ldpi" />
+        <!-- <icon src="res/icons/android/icon-ldpi.png" density="ldpi" />
         <icon src="res/icons/android/icon-mdpi.png" density="mdpi" />
         <icon src="res/icons/android/icon-hdpi.png" density="hdpi" />
         <icon src="res/icons/android/icon-xhdpi.png" density="xhdpi" />
         <icon src="res/icons/android/icon-xxhdpi.png" density="xxhdpi" />
-        <icon src="res/icons/android/icon-xxxhdpi.png" density="xxxhdpi" />
+        <icon src="res/icons/android/icon-xxxhdpi.png" density="xxxhdpi" /> -->
+
+        <icon src="res/icons/android/icon.png" />
 
     </platform>
     <platform name="ios">
